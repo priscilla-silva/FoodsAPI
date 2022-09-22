@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Britney Spears",
+      "age": 40,
+      "location": "Hollywood, CA",
+      "diet": "Omnivore",
+      "img": "https://ibb.co/vxTP52s"
+    },
+    {
+      "id": 2,
+      "name": "Madonna Ciccone",
+      "age": 64,
+      "location": "New York City, NY",
+      "diet": "Vegan",
+      "img": "https://ibb.co/W00Fdp8"
+    },
+    {
+      "id": 3,
+      "name": "Beyoncé Knowles",
+      "age": 41,
+      "location": "New York City, NY",
+      "diet": "Vegan",
+      "img": "https://ibb.co/GsvR1ZR8"
+    },
+    {
+      "id": 4,
+      "name": "Rihanna Fenty",
+      "age": 34,
+      "location": "Los Angeles, CA",
+      "diet": "Omnivore",
+      "img": "https://ibb.co/zfgG51y"
+    }
+  ]
+}
