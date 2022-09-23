@@ -6,7 +6,7 @@
       "age": 40,
       "location": "Hollywood, CA",
       "diet": "Omnivore",
-      "img": "https://ibb.co/vxTP52s"
+      "img": "https://iili.io/sCwSna.png"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "age": 64,
       "location": "New York City, NY",
       "diet": "Vegan",
-      "img": "https://ibb.co/W00Fdp8"
+      "img": "https://iili.io/sCwkwF.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "age": 41,
       "location": "New York City, NY",
       "diet": "Vegan",
-      "img": "https://ibb.co/GsvR1ZR8"
+      "img": "https://iili.io/sCweu1.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "age": 34,
       "location": "Los Angeles, CA",
       "diet": "Omnivore",
-      "img": "https://ibb.co/zfgG51y"
+      "img": "https://iili.io/sCwvZg.png"
     }
   ]
 }
