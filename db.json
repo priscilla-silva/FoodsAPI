@@ -31,6 +31,70 @@
       "location": "Los Angeles, CA",
       "diet": "Omnivore",
       "img": "https://iili.io/sCwvZg.png"
+    },
+    {
+      "id": 5,
+      "name": "Dua Lipa",
+      "age": 27,
+      "location": "London, UK",
+      "diet": "Omnivore",
+      "img": "https://iili.io/sAKjBs.webp"
+    },
+    {
+      "id": 6,
+      "name": "Natalia Lafourcade",
+      "age": 38,
+      "location": "Mexico City, MX",
+      "diet": "Vegan",
+      "img": "https://iili.io/sAKpZF.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hillary Duff",
+      "age": 34,
+      "location": "Los Angeles, CA",
+      "diet": "Omnivore",
+      "img": "https://iili.io/sAKAI1.webp"
+    },
+    {
+      "id": 8,
+      "name": "Belinda Peregrín",
+      "age": 33,
+      "location": "Madrid, Spain",
+      "diet": "Vegan",
+      "img": "https://iili.io/sAK5Lg.webp"
+    },
+    {
+      "id": 9,
+      "name": "Ariana Grande",
+      "age": 29,
+      "location": "New York City, NY",
+      "diet": "Vegetarian",
+      "img": "https://iili.io/sAKTmP.webp"
+    },
+    {
+      "id": 10,
+      "name": "Lana del Rey",
+      "age": 37,
+      "location": "Los Angeles, CA",
+      "diet": "Omnivore",
+      "img": "https://iili.io/sAKRhF.png"
+    },
+    {
+      "id": 11,
+      "name": "Angelina Jolie",
+      "age": 47,
+      "location": "New York City, NY",
+      "diet": "Vegetarian",
+      "img": "https://iili.io/sAKYBa.png"
+    },
+    {
+      "id": 12,
+      "name": "Avril Lavigne",
+      "age": 37,
+      "location": "Toronto, CAN",
+      "diet": "Omnivore",
+      "img": "https://iili.io/sAKcrv.jpg"
     }
   ]
 }
